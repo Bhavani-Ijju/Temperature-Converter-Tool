@@ -78,7 +78,7 @@ K → °C	C = K – 273.15
 K → °F	F = (K – 273.15) × 9/5 + 32
 ▶️ How to Run
 1. Clone the Repository
-git clone https://github.com/your-username/Temperature-Converter-Tool.git
+git clone https://github.com/Bhavani-Ijju/Temperature-Converter-Tool.git
 
 2. Navigate into the project folder
 cd Temperature-Converter-Tool
